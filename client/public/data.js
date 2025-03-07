@@ -1,0 +1,161 @@
+export const roomsDetails = [
+  {
+    _id: "1",
+    roomname: "Garden Villa",
+    description:
+      "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sint dolores ex, sed optio soluta magni quibusdam quae doloribus mollitia! Dolore aliquam sapiente esse obcaecati ducimus consequatur vitae id architecto provident.Illum, repellendus laboriosam unde, cumque sapiente in doloremque odio, distinctio illo adipisci quasi odit. Architecto quisquam optio consectetur esse necessitatibus eius dolorum, ex dolores vero amet placeat, rerum laborum.",
+    price: 1299,
+    area: "2206",
+    bed: 1,
+    capacity: 2,
+    image: "/room1.jpg",
+  },
+  {
+    _id: "2",
+    roomname: "Overwater Villa",
+    description: "",
+    price: 1199,
+    area: "1937",
+    bed: 2,
+    capacity: 2,
+    image: "/room2.jpg",
+  },
+  {
+    _id: "3",
+    roomname: "Beach Villa",
+    description: "",
+    price: 1499,
+    area: "2513",
+    bed: 2,
+    capacity: 4,
+    image: "/room3.jpg",
+  },
+  {
+    _id: "4",
+    roomname: "Sunset Overwater Villa",
+    description: "",
+    price: 1399,
+    area: "2106",
+    bed: 2,
+    capacity: 4,
+    image: "/room4.jpg",
+  },
+  {
+    _id: "5",
+    roomname: "Lagoon Villa",
+    description: "",
+    price: 1599,
+    area: "3102",
+    bed: 3,
+    capacity: 6,
+    image: "/room5.jpg",
+  },
+  {
+    _id: "6",
+    roomname: "Ocean Pool Villa",
+    description: "",
+    price: 1500,
+    area: "3225",
+    bed: 3,
+    capacity: 6,
+    image: "/room6.jpg",
+  },
+  {
+    _id: "7",
+    roomname: "Private Pool Villa",
+    description: "",
+    price: 1899,
+    area: "3479",
+    bed: 3,
+    capacity: 8,
+    image: "/room7.webp",
+  },
+  {
+    _id: "8",
+    roomname: "Beach Pool Villa",
+    description: "",
+    price: 1799,
+    area: "3362",
+    bed: 3,
+    capacity: 8,
+    image: "/room8.avif",
+  },
+  {
+    _id: "9",
+    roomname: "Two Bedroom Ocean Villa",
+    description: "",
+    price: 2199,
+    area: "4950",
+    bed: 4,
+    capacity: 10,
+    image: "/room9.avif",
+  },
+  {
+    _id: "10",
+    roomname: "Two Bedroom Sunset Villa",
+    description: "",
+    price: 2299,
+    area: "5703",
+    bed: 4,
+    capacity: 10,
+    image: "/room10.avif",
+  },
+];
+
+export const rooms = [
+  {
+    roomname: "Garden Villa",
+    image: "/room1.jpg",
+  },
+  {
+    roomname: "Overwater Villa",
+    image: "/room2.jpg",
+  },
+  {
+    roomname: "Two Bedroom Ocean Villa",
+    image: "/room9.avif",
+  },
+  {
+    roomname: "Two Bedroom Sunset Villa",
+    image: "/room10.avif",
+  },
+];
+
+export const dining = [
+  {
+    _id: "1",
+    roomname: "Orientale",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti facere quidem ex et a ab, cumque qui consequuntur excepturi eos dolorum voluptatibus exercitationem, autem.",
+    type: "Asian",
+    open: "Open for breakfast, lunch and dinner",
+    image: "/orientale.avif",
+  },
+  {
+    _id: "2",
+    roomname: "Arabian Grill",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti facere quidem ex et a ab, cumque qui consequuntur excepturi eos dolorum voluptatibus exercitationem, autem.",
+    type: "Middle Eastern",
+    open: "Open for lunch and dinner",
+    image: "/arabiangrill.jpg",
+  },
+  {
+    _id: "3",
+    roomname: "Alba",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti facere quidem ex et a ab, cumque qui consequuntur excepturi eos dolorum voluptatibus exercitationem, autem.",
+    type: "International",
+    open: "Open for breakfast, lunch and dinner",
+    image: "/Alba.avif",
+  },
+  {
+    _id: "4",
+    roomname: "Tuscano",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus corrupti facere quidem ex et a ab, cumque qui consequuntur excepturi eos dolorum voluptatibus exercitationem, autem.",
+    type: "Italian",
+    open: "Open for dinner",
+    image: "/tuscano.webp",
+  },
+];
